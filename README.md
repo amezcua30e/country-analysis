@@ -3,3 +3,6 @@ This project was done in conjunction with Ray Xiong. It analysis the monetary re
 
 
 File:  [Costa Rica Monetary Regimes.pdf](https://github.com/amezcua30e/country-analysis/files/15418520/Costa.Rica.Monetary.Regimes.pdf)
+
+
+#Crisis Analysis
