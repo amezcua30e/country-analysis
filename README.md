@@ -6,6 +6,6 @@ File:  [Costa Rica Monetary Regimes.pdf](https://github.com/amezcua30e/country-a
 
 
 # Crisis Analysis
-This project was an analysis of the 1982 of Costa Rica. Most of the work was done by me and Ray Xiong, though there were other very minor contributions by other teammates. In this project, a short memo explaining the macroeconomic and finance factors of the 1982 crisis wass created. Factors such as the import substitution model were analyzed. Monetizing a deficit was also a big factor. 
+This project was an analysis of the 1982  crisis of Costa Rica. Most of the work was done by me and Ray Xiong, though there were other very minor contributions by other teammates. In this project, a short memo explaining the macroeconomic and finance factors of the 1982 crisis wass created. Factors such as the import substitution model were analyzed. Monetizing a deficit was also a big factor. 
 
 File:  [Memo--Costa Rica (Final Draft).pdf](https://github.com/amezcua30e/country-analysis/files/15418702/Memo--Costa.Rica.Final.Draft.pdf)
